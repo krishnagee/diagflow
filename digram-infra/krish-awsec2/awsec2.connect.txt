@@ -1,0 +1,1 @@
+ssh -i Downloads/aws-machine/krishec2.pem ec2-user@ec2-35-165-89-116.us-west-2.compute.amazonaws.com
