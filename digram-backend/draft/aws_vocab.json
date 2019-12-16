@@ -1,0 +1,107 @@
+{
+  "aws_cloud": [
+    "Amazon Cloud",
+    "Amazon Web Service",
+    "Amazon",
+	"AWS"
+  ],
+  "aws_rds": [
+    "Amazon RDS",
+	"RDS",
+    "MySQL",
+    "Postgresql",
+    "PgSQL"
+  ],
+  "aws_subnet": [
+    "public subnet",
+    "private subnet",
+    "subnet",
+    "aws subnet",
+    "Amazon VPC subnet"
+  ],
+  "aws_vpc": [
+    "Virtual private cloud",
+    "Amazon VPC",
+	"VPC"
+  ],
+  "aws_sg": [
+    "Virtual private cloud Security Group",
+    "Amazon VPC Security Group",
+    "Security Group"
+  ],
+  "aws_vpc_peer": [
+    "AWS VPC Peering",
+    "VPC Peering",
+    "AWS Virtual Private Cloud Peering",
+    "AWS VPC Peering Connection"
+  ],
+  "aws_alb": [
+    "Elastic Load Balancer",
+    "Application Load Balancer",
+    "L7 Load Balancer"
+  ],
+  "aws_nlb": [
+    "Network Load Balancer",
+    "L3 Load Balancer",
+    "L4 Load Balancer"
+  ],
+  "aws_igw": [
+    "Internet Gateway",
+    "VPC Internet Gateway",
+    "AWS Internet gateway"
+  ],
+  "aws_eip": [
+    "Elastic IP",
+    "Elastic IP Allocation",
+    "Allocated EIP"
+  ],
+  "aws_ngw": [
+    "Network Gateway",
+    "AWS Network Gateway",
+    "VPC network gateway",
+	"NAT Gateway",
+	"Network Address Translation Gateway"
+  ],
+  "aws_s3b": [
+    "AWS S3 bucket",
+    "S3 bucket",
+    "bucket object"
+  ],
+  "aws_ecs": [
+    "AWS elastic container service",
+    "elastic container service",
+    "AWS ECS"
+  ],
+  "aws_ecr": [
+    "AWS Elastic container repository",
+    "aws elastic container repository",
+    "aws ECR",
+    "AWS ECR"
+  ],
+  "aws_ec2": [
+    "AWS EC2",
+    "AWS EC2 Instances",
+    "EC2 cluster",
+	"Server",
+    "elastic compute cloud",
+    "elastic compute instance"
+  ],
+  "aws_route53": [
+    "AWS route53",
+    "Route53",
+    "AWS Route53",
+    "AWS Route53",
+    "Route53 DNS Service"
+  ],
+  "aws_rtab": [
+    "AWS Route table",
+    "AWS Routing table",
+    "Routing table",
+    "Routing rules"
+  ],
+  "aws_rt": [
+    "AWS Route",
+    "Route",
+    "VPC Route"
+  ]
+}
