@@ -155,3 +155,7 @@ print(return_code,stdout,stderr)
 
 return_code, stdout, stderr = tf.plan('aws-project/project1')
 print(return_code,stdout,stderr)
+
+
+return_code, stdout, stderr = tf.apply('aws-project/project1')
+print(return_code,stdout,stderr)

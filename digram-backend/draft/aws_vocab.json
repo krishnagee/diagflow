@@ -27,20 +27,27 @@
   "aws_sg": [
     "Virtual private cloud Security Group",
     "Amazon VPC Security Group",
-    "Security Group"
+    "Security Group",
+	"SG"
   ],
   "aws_vpc_peer": [
     "AWS VPC Peering",
     "VPC Peering",
+	"VPC PEER",
     "AWS Virtual Private Cloud Peering",
     "AWS VPC Peering Connection"
   ],
   "aws_alb": [
+	"L7",
+	"ALB",
     "Elastic Load Balancer",
     "Application Load Balancer",
     "L7 Load Balancer"
   ],
   "aws_nlb": [
+	"L3",
+	"L4",
+	"NLB",
     "Network Load Balancer",
     "L3 Load Balancer",
     "L4 Load Balancer"
@@ -48,37 +55,36 @@
   "aws_igw": [
     "Internet Gateway",
     "VPC Internet Gateway",
-    "AWS Internet gateway"
+    "AWS Internet gateway",
+	"IGW"
   ],
   "aws_eip": [
+	"EIP",
     "Elastic IP",
     "Elastic IP Allocation",
     "Allocated EIP"
   ],
-  "aws_ngw": [
-    "Network Gateway",
-    "AWS Network Gateway",
-    "VPC network gateway",
-	"NAT Gateway",
-	"Network Address Translation Gateway"
-  ],
   "aws_s3b": [
+	"S3",
     "AWS S3 bucket",
     "S3 bucket",
     "bucket object"
   ],
   "aws_ecs": [
+	"ECS",
     "AWS elastic container service",
     "elastic container service",
     "AWS ECS"
   ],
   "aws_ecr": [
+	"ECR",
     "AWS Elastic container repository",
     "aws elastic container repository",
     "aws ECR",
     "AWS ECR"
   ],
   "aws_ec2": [
+	"EC2",
     "AWS EC2",
     "AWS EC2 Instances",
     "EC2 cluster",
@@ -92,16 +98,5 @@
     "AWS Route53",
     "AWS Route53",
     "Route53 DNS Service"
-  ],
-  "aws_rtab": [
-    "AWS Route table",
-    "AWS Routing table",
-    "Routing table",
-    "Routing rules"
-  ],
-  "aws_rt": [
-    "AWS Route",
-    "Route",
-    "VPC Route"
   ]
 }
